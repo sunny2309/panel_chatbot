@@ -4,4 +4,4 @@ The codebase contains the code of Chatbot created using Python libraries Panel a
 
 Feel free to watch the below video to understand the code in detail.
 
-* [Step-by-step Guide to Build Chatbot using Panel & Ollama (No OpenAI API)](https://www.youtube.com/@CoderzColumn)
+* [Step-by-step Guide to Build Chatbot using Panel & Ollama (No OpenAI API)](https://www.youtube.com/watch?v=ilAZdYvlKKM)
